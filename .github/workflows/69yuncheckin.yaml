@@ -1,7 +1,7 @@
 name: Python CI 2
 
 on:
-  # 每天0点1分触发（UTC时间）
+  # 每天3点1分触发（UTC时间）
   schedule:
     - cron: '1 3 * * *'
 
